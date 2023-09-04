@@ -22,7 +22,8 @@ I am a junior web developer with experience in both back-end and front-end devel
           <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
 
 <h2>📊 GitHub Stats:</h2> 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=MelikaDaa)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MelikaDaa&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
 
  <h2>Connect via:</h2>
 <div id="badges">
