@@ -11,7 +11,7 @@ I am a junior web developer with experience in both back-end and front-end devel
 💞️ I’m looking to collaborate on .NET Project.
 <br/>
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
- <br/>
+
 <h2>Languages and Tools:</h2>
 
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
@@ -22,7 +22,7 @@ I am a junior web developer with experience in both back-end and front-end devel
           <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
 
 <h2>📊 GitHub Stats:</h2> 
-
+[![GitHub Streak](https://streak-stats.demolab.com/?user=MelikaDaa)](https://git.io/streak-stats)
 
  <h2>Connect via:</h2>
 <div id="badges">
