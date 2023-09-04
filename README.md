@@ -2,14 +2,18 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
-About Me
+<h2> About Me</h2>
+<hr/>
 I am a junior web developer with experience in both back-end and front-end development. I work in the .NET development field and have experience working with frameworks like the .NET framework in C#. I have also completed projects using ASP.NET Core and MVC.
-
+<br/>
 👀 I am always looking for new challenges!
+<br/>
 💞️ I’m looking to collaborate on .NET Project.
+<br/>
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
- 
-Languages and Tools:
+ <br/>
+<h2>Languages and Tools:</h2>
+<hr/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
       <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
@@ -17,9 +21,11 @@ Languages and Tools:
           <img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
           <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
 
-📊 GitHub Stats:
+<h2>📊 GitHub Stats:</h2> 
+<hr/>
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MelikaDaa&theme=dark&background=000000)](https://git.io/streak-stats)
-Connect via:
+<br/>
+ <h2>Connect via:</h2>
 <div id="badges">
   <a href="www.linkedin.com/in/melika-dadashi-7a169a231">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
