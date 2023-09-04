@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi there 👋 I'm Melika
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
 
-<!--
-**melikaDaa/MelikaDaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a junior web developer with experience in both back-end and front-end development. I work in the .NET development field and have experience working with frameworks like the .NET framework in C#. I have also completed projects using ASP.NET Core and MVC.
 
-Here are some ideas to get you started:
+👀 I am always looking for new challenges!
+💞️ I’m looking to collaborate on .NET Project.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Languages and Tools:
+
+
+
