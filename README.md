@@ -9,8 +9,8 @@ I am a junior web developer with experience in both back-end and front-end devel
 👀 I am always looking for new challenges!
 <br/>
 💞️ I’m looking to collaborate on .NET Project.
-<br/>
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+
+ :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
 
 <h2>Languages and Tools:</h2>
 
@@ -30,6 +30,7 @@ I am a junior web developer with experience in both back-end and front-end devel
   />
   <img src="https://github-readme-stats.vercel.app/api?username=MelikaDaa&show_icons=true" />
 </picture>
+<br>
 <picture>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MelikaDaa&layout=compact" />
 </picture>
