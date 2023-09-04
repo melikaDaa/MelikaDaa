@@ -18,7 +18,7 @@ Languages and Tools:
           <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
 
 📊 GitHub Stats:
-https://github-readme-streak-stats.herokuapp.com/?user=MelikaDaa
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MelikaDaa&theme=dark&background=000000)](https://git.io/streak-stats)
 Connect via:
 <div id="badges">
   <a href="www.linkedin.com/in/melika-dadashi-7a169a231">
