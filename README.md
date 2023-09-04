@@ -47,6 +47,9 @@ I am a junior web developer with experience in both back-end and front-end devel
   </a>
   <a href="your-youtube-URL">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-     <a href="melikadadashi2003@outlook.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
+  </a>
+      <a href="your-youtube-URL">
+    <img src="https://img.shields.io/badge/Gmail-black?style=for-the-badge&logo=Gmail&logoColor=white" alt="Youtube Badge"/>
+      </a>
 </div>
 
