@@ -9,7 +9,6 @@ I am a junior web developer with experience in both back-end and front-end devel
 👀 I am always looking for new challenges!
 <br/>
 💞️ I’m looking to collaborate on .NET Project.
-
  :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
 
 <h2>Languages and Tools:</h2>
