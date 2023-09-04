@@ -5,11 +5,14 @@
 <h2> About Me</h2>
 
 I am a junior web developer with experience in both back-end and front-end development. I work in the .NET development field and have experience working with frameworks like the .NET framework in C#. I have also completed projects using ASP.NET Core and MVC.
+
 <br/>
 👀 I am always looking for new challenges!
 <br/>
 💞️ I’m looking to collaborate on .NET Project.
+<br>
  :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+<br/>
 
 <h2>Languages and Tools:</h2>
 
@@ -19,6 +22,8 @@ I am a junior web developer with experience in both back-end and front-end devel
           <img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original-wordmark.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
           <img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
           <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+          <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
 
 <h2>📊 GitHub Stats:</h2> 
 
@@ -42,5 +47,6 @@ I am a junior web developer with experience in both back-end and front-end devel
   </a>
   <a href="your-youtube-URL">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+     <a href="melikadadashi2003@outlook.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
 </div>
 
