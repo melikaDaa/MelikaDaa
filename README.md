@@ -30,14 +30,14 @@ I am a junior web developer with experience in both back-end and front-end devel
 
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=MelikaDaa&show_icons=true&theme=dark"
+    srcset="https://github-readme-stats.vercel.app/api?username=melikadaa&show_icons=true&theme=dark"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=MelikaDaa&show_icons=true"
+    srcset="https://github-readme-stats.vercel.app/api?username=melikadaa&show_icons=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api?username=MelikaDaa&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=melikadaa&show_icons=true" />
 </picture>
 
 
