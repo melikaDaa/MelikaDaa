@@ -27,8 +27,17 @@ I am a junior web developer with experience in both back-end and front-end devel
           <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
 </div>
 <h2>📊 GitHub Stats:</h2> 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MelikaDaa&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
-
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=MelikaDaa&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=MelikaDaa&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=MelikaDaa&show_icons=true" />
+</picture>
  <h2>Connect via:</h2>
 <div id="badges">
   <a href="www.linkedin.com/in/melika-dadashi-7a169a231">
