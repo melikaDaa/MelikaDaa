@@ -28,14 +28,7 @@ I am a junior web developer with experience in both back-end and front-end devel
 </div>
 <h2>📊 GitHub Stats:</h2> 
 
-<picture>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MelikaDaa&show_icons=true)
-</picture>
-<br>
-<picture>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MelikaDaa&layout=compact" />
-</picture>
 
 
  <h2>Connect via:</h2>
