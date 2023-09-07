@@ -32,6 +32,7 @@ I am a junior web developer with experience in both back-end and front-end devel
     srcset="https://github-readme-stats.vercel.app/api?username=MelikaDaa&show_icons=true&theme=dark"
     media="(prefers-color-scheme: dark)"
   />
+    <img src="https://github-readme-stats.vercel.app/api?username=MelikaDaa&show_icons=true" />
 </picture>
  <h2>Connect via:</h2>
 <div id="badges">
