@@ -28,8 +28,10 @@ I am a junior web developer with experience in both back-end and front-end devel
 </div>
 <h2>📊 GitHub Stats:</h2> 
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=MelikaDaa)](https://github.com/MelikaDaa/github-readme-stats)
-
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=MelikaDaa&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
 
  <h2>Connect via:</h2>
 <div id="badges">
