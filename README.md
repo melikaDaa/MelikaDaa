@@ -27,7 +27,7 @@ I am a junior web developer with experience in both back-end and front-end devel
           <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
 </div>
 <h2>📊 GitHub Stats:</h2> 
-  <img src="https://github-readme-stats.vercel.app/api?username=MelikaDaa&show_icons=true" />
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MelikaDaa&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 
  <h2>Connect via:</h2>
 <div id="badges">
