@@ -26,7 +26,8 @@ I am a junior web developer with experience in both back-end and front-end devel
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
           <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
 </div>
-
+ <h2>GitHub Stats:</h2>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=MelikaDaa&theme=dark)](https://git.io/streak-stats)
 
  <h2>Connect via:</h2>
 <div id="badges">
