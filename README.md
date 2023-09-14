@@ -28,8 +28,8 @@ I am a junior web developer with experience in both back-end and front-end devel
 </div>
  <h2>GitHub Stats:</h2>
     <img src="https://streak-stats.demolab.com/?user=MelikaDaa&theme=dark" />
-
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MelikaDaa&layout=compact"/>
+<br>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MelikaDaa&layout=compact" />
     
     
  <h2>Connect via:</h2>
