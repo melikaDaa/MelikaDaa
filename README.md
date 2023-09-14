@@ -35,9 +35,9 @@ I am a junior web developer with experience in both back-end and front-end devel
   />
      <img src="https://github-readme-stats.vercel.app/api?username=MelikaDaa&show_icons=true" />
 </picture>
-
+<br>
     <img src="https://streak-stats.demolab.com/?user=MelikaDaa&theme=light" />
-    
+    <br>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MelikaDaa&layout=compact" />
     
     
