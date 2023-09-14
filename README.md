@@ -27,6 +27,7 @@ I am a junior web developer with experience in both back-end and front-end devel
           <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
 </div>
  <h2>GitHub Stats:</h2>
+       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MelikaDaa&layout=compact" />
 
  <picture>
   <source
@@ -35,7 +36,6 @@ I am a junior web developer with experience in both back-end and front-end devel
   />
      <img src="https://github-readme-stats.vercel.app/api?username=MelikaDaa&show_icons=true" />
 <br>
-       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MelikaDaa&layout=compact" />
 
 </picture>
     <img src="https://streak-stats.demolab.com/?user=MelikaDaa&theme=light" />
