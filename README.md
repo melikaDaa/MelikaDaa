@@ -29,6 +29,7 @@ I am a junior web developer with experience in both back-end and front-end devel
  <h2>GitHub Stats:</h2>
     <img src="https://streak-stats.demolab.com/?user=MelikaDaa&theme=dark" />
 
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MelikaDaa&layout=compact&theme=vision-friendly-dark" />
 
  <h2>Connect via:</h2>
 <div id="badges">
